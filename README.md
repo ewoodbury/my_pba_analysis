@@ -1,6 +1,6 @@
 # PBA Analysis
 ### Summary
-For this project, I am analyzing computational data on Prussian Blue Analogue (PBA) structures for use in battery electrodes. Specifically, I am looking at how the atoms present in the structure affect the stability, cyclability, and electrochemical performance of the structures as battery materials.
+For this project, I am using Python to analyze computational data on Prussian Blue Analogue (PBA) structures for use in battery electrodes. Specifically, I am looking at how the atoms present in the structure affect the stability, cyclability, and electrochemical performance of the structures as battery materials. Eventually, I plan to build a machine learning model capable of predicting battery performance given atom identities.
 
 This research is being completed under the Persson Group at Lawrence Berkeley National Laboratory.
 
